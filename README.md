@@ -1,6 +1,9 @@
 # springcloud
 practice spring cloud
 
+主要參考範例：
+https://blog.csdn.net/qq_42322632/article/details/121717841
+
 練習時遇到的問題：
 1. http://localhost:6001/hystrix.stream 卡loading 測有設定的api就不會loading了
 
